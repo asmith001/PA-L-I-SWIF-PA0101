@@ -1,0 +1,1 @@
+All HTML Forms should be stored under this folder.

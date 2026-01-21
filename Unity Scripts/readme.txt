@@ -1,0 +1,1 @@
+All Unity Scripts should fall into this folder. We can organize by solution.

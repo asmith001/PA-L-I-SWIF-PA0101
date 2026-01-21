@@ -1,0 +1,1 @@
+All exports from OnBase Studio and Config or any configuration exports from other software should be stored here.
